@@ -1,6 +1,6 @@
 ---
 title: "1st markdown file"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
